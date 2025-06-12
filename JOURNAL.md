@@ -9,6 +9,6 @@ created_at: "2025-06-11"
 
 figured out how to use KiCad! took me a little to understand what was what and a lot of googling to understand PCB structure, but I think I have it down enough LOL
 
-
+![entry1](Journal20%Images/journalentry1.png)
 
 **Total time spent: 2h**
