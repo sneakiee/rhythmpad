@@ -12,3 +12,12 @@ figured out how to use KiCad! took me a little to understand what was what and a
 ![entry1](Journal20%Images/journalentry1.png)
 
 **Total time spent: 2h**
+
+# June 11th: finished switch matrix & connections
+
+added some leds and completed the wiring for my pcb :D
+i genuinely took so long because it was hard to find a reference and i accidentally had the wrong footprint for my micro controller D:
+
+![entry2](Journal20%Images/journalentry2.png)
+
+**Total time spent: 3h**
