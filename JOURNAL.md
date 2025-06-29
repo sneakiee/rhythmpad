@@ -9,7 +9,7 @@ created_at: "2025-06-11"
 
 figured out how to use KiCad! took me a little to understand what was what and a lot of googling to understand PCB structure, but I think I have it down enough LOL
 
-![entry1](Journal20%Images/journalentry1.png)
+![journalentry1](https://github.com/user-attachments/assets/40770818-959c-45f1-80bc-b876644ed458)
 
 **Total time spent: 2h**
 
@@ -18,7 +18,7 @@ figured out how to use KiCad! took me a little to understand what was what and a
 added some leds and completed the wiring for my pcb :D
 i genuinely took so long because it was hard to find a reference and i accidentally had the wrong footprint for my micro controller D:
 
-![entry2](Journal20%Images/journalentry2.png)
+![journalentry2](https://github.com/user-attachments/assets/8b7defa2-c0fd-45f7-bb68-cc35ee90a7aa)
 
 **Total time spent: 3h**
 
@@ -27,6 +27,15 @@ i genuinely took so long because it was hard to find a reference and i accidenta
 i wanted to use onshape and ended up having to google too much. lesson learned, be smart and actually look for a tutorial instead of just doing it.
 what is wrong wit meee (finishing case incoming)
 
-![entry3](Journal20%Images/journalentry3.png)
+![journalentry3](https://github.com/user-attachments/assets/952c2e74-3e37-4f57-8a6a-2ccd5fb85baf)
 
 **Total time spent: 1h**
+
+# June 28th: most productive day!!
+
+locked in and decided to finish everything! i took so long trying to fix problems and never thought of creative ways so i took very very long,
+but then i added more leds, created my own keycaps, wrote my firmware, and finished my case! this took too long.... :sob:
+
+![3d model](https://github.com/user-attachments/assets/ad3c2b7b-2ed4-4e57-96b6-cc72898862d9)
+
+**Total time spent: 5h**
