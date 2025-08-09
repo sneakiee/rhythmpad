@@ -39,3 +39,11 @@ but then i added more leds, created my own keycaps, wrote my firmware, and finis
 ![3d model](https://github.com/user-attachments/assets/ad3c2b7b-2ed4-4e57-96b6-cc72898862d9)
 
 **Total time spent: 5h**
+
+# July 8th: shipping day!
+
+i had built my hackpad, and all i really needed to do was change the pins in my firmware! **unfortunately** the SK6812MINI footprints on KiCad are WRONG!!! (i am a victim...) so unfortunately i am not able to use my LEDS...
+
+i literally spent so long trying to debug my newest firmware just to figure out the footprints are just wrong and i can't solder my LEDs or else the LED will literally just be facing downwards and into the pcb. makes me mad but i still really like how it turned out!
+
+<img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/1b3466a3-05d7-4cd7-a485-bd40223fe6c7" />
