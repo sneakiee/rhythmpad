@@ -1,5 +1,7 @@
 # rhythmpad
 
+<img width="619" height="429" alt="image" src="https://github.com/user-attachments/assets/cafce914-003d-453b-86b6-03075f03014c" />
+
 This was a YSWS project for Hack Club's hackpad for hack club's highway! I got the idea of creating a hackpad for rhythm games, but I also wanted to generalize it more for music, so I decided to make it into a drum-pad by creating square keycaps! The switches are mapped to the numpad from 1-9 and the extra button on the right being 0. This was my first actual hardware project and I hope to build more because it was a frustrating fun (I need to feel more of that.
 
 # Schematic and PCB
@@ -16,7 +18,7 @@ This was a YSWS project for Hack Club's hackpad for hack club's highway! I got t
 # Components
 - 10x cherry mx switches
 - 10x through-hole 1N4148 diodes
-- 6x SK6812 MINI-E LEDs
+- 6x SK6812 MINI-E LEDs (unfortunately doesn't work with original files, but if SK6812MINI footprint in KiCad is changed, will work!)
 - 1x seeeed XIAO RP2040
 - 10x custom 3D printed keycaps
 - custom 3D printed top case
