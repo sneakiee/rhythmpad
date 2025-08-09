@@ -6,18 +6,15 @@ from kmk.keys import KC
 
 keyboard = KMKKeyboard()
 
-macros = Macros()
-keyboard.modules.append(macros)
-
-PINS_COL = [board.A3, board.D4, board.D5, board.D0]
-PINS_ROW = [board.D1, board.D2, board.D3]
-keyboard.diode_orientation = DiodeOrientation.DIODE_COL2ROW
+keyboard.col_pins = [board.A3, board.D4, board.D5, board.D6]
+keyboard.row_pins = [board.D7, board.D8, board.D9]
+keyboard.diode_orientation = DiodeOrientation.COL2ROW
 
 keyboard.keymap = [
         [
-        KC.NP7, KC.NP8, KC.NP9,
-        KC.NP4, KC.NP5, KC.NP6, KC.NP0,
-        KC.NP1, KC.NP2, KC.NP3,
+        KC.N7, KC.N8, KC.N9, KC.NO,
+        KC.N4, KC.N5, KC.N6, KC.N0,
+        KC.N1, KC.N2, KC.N3, KC.NO,
     ]
 ]
 
