@@ -40,10 +40,31 @@ but then i added more leds, created my own keycaps, wrote my firmware, and finis
 
 **Total time spent: 5h**
 
-# July 8th: shipping day!
+# July 27th-29th: building the thing!
 
-i had built my hackpad, and all i really needed to do was change the pins in my firmware! **unfortunately** the SK6812MINI footprints on KiCad are WRONG!!! (i am a victim...) so unfortunately i am not able to use my LEDS...
+i got all my parts + my soldering iron and was ready to finally build this thing! my main problem was the RP2040 as it was pretty difficult to solder something so small as a beginner hardware maker.. i ended up having to redo with a whole other board, even breaking 2 pins of the xiao in the process... whoops...
+
+<img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/4a9f13a3-84b3-4805-b771-5929a2d2fc37" />
+
+its okay though! i somehow desoldered it and learned how to solder decently and then all i needed to do was to solder the LEDS!
+
+![IMG_5116](https://github.com/user-attachments/assets/ce818519-10cf-4236-8e47-78ebff3e59a8)
+
+i had built my hackpad, and all i really needed to do was change the pins in my firmware! (which took a few minutes but we had it going)
+
+<img width="582" height="96" alt="image" src="https://github.com/user-attachments/assets/e62d73d2-41f9-4e4f-b81a-57c816ec7437" />
+
+i also recorded some gameplay! https://youtu.be/_harP569IKI
+
+**Total time spent: 2h**
+
+# August 8th: shipping day!
+
+guess what... **unfortunately** the SK6812MINI footprints on KiCad are WRONG!!! (i am a victim...) so unfortunately i am not able to use my LEDS...
 
 i literally spent so long trying to debug my newest firmware just to figure out the footprints are just wrong and i can't solder my LEDs or else the LED will literally just be facing downwards and into the pcb. makes me mad but i still really like how it turned out!
 
+![IMG_5114](https://github.com/user-attachments/assets/055ea693-0ccf-4729-9c3a-07609270b520)
 <img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/1b3466a3-05d7-4cd7-a485-bd40223fe6c7" />
+
+**Total time spent: 2h** (mostly debugging </3)
